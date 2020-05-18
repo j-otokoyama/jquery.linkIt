@@ -6,6 +6,7 @@
 0.1.0
 
 ## Usage ##
+There is not any intrinsic value in this **plugin** other than my own learning some jQuery and publishig to NPM.
 
 ## Vendors ##
 jQuery - [http://jquery.com](http://jquery.com)
