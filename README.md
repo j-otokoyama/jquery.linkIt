@@ -6,11 +6,11 @@
 0.1.0
 
 ## Usage ##
-    $(document).ready(function() { 							// 1).
-                $("span").linkIt( { 						// 2).
-                    href: "http://www.yourUrlHere.com", 	// 3).
-                    text: "Some new text", 					// 4).
-                    target: "_blank" 						// 5).
+    $(document).ready(function() { 						// 1).
+                $("span").linkIt( { 					// 2).
+                    href: "http://www.yourUrlHere.com",	// 3).
+                    text: "Some new text", 				// 4).
+                    target: "_blank" 					// 5).
                 });
             });
 1. Add the above script to your index.html document header
