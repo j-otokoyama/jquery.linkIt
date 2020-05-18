@@ -12,7 +12,11 @@
   },
   "keywords": [
     "jquery-plugin",
-    "ecosystem:jquery"
+    "ecosystem:jquery",
+    "javascript",
+    "link",
+    "html",
+    "content"
   ],
   "author": "Joey Nelson",
   "license": "MIT",
