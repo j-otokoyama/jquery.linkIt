@@ -1,0 +1,23 @@
+{
+  "name": "linkit",
+  "version": "0.1.0",
+  "description": "A simple jQuery plugin to add links to elements(learning project)",
+  "main": "jquery.linkIt.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-otokoyama/jquery.linkit.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "Joey Nelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-otokoyama/jquery.linkit/issues"
+  },
+  "homepage": "https://github.com/j-otokoyama/jquery.linkit#readme"
+}
